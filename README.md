@@ -17,7 +17,7 @@
   <img align="center" alt="Tati-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tati-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   
-  <img align="right" alt="Tati-pic" height="150" style="border-radius:50px;" src="https://scontent.fbhz2-1.fna.fbcdn.net/v/t39.30808-6/281340209_10209746736740593_3464472023314218269_n.jpg?_nc_cat=101&ccb=1-6&_nc_sid=730e14&_nc_eui2=AeENQc1U6QwvHzN5GBsWKJd1TOSvIMASOkhM5K8gwBI6SGjnNuQCW8m3tJJJZSIqm6c&_nc_ohc=LGuziqMfPikAX8ZCulk&_nc_ht=scontent.fbhz2-1.fna&oh=00_AT9NWMCEiBgKDM3hbjhA4VKG76_GrvFPYqAV7ECq84vk_A&oe=62870F98">
+  <img align="right" alt="Tati-pic" height="150" style="border-radius:50px" src="https://scontent.fbhz2-1.fna.fbcdn.net/v/t39.30808-6/281340209_10209746736740593_3464472023314218269_n.jpg?_nc_cat=101&ccb=1-6&_nc_sid=730e14&_nc_eui2=AeENQc1U6QwvHzN5GBsWKJd1TOSvIMASOkhM5K8gwBI6SGjnNuQCW8m3tJJJZSIqm6c&_nc_ohc=LGuziqMfPikAX8ZCulk&_nc_ht=scontent.fbhz2-1.fna&oh=00_AT9NWMCEiBgKDM3hbjhA4VKG76_GrvFPYqAV7ECq84vk_A&oe=62870F98">
 </div>
   
 ##
