@@ -1,4 +1,4 @@
-### Olá, eu sou a Tatiana Correia 👋
+### Olá, eu sou a Tatiana Correia 👋👩🏻‍💻
 
 - 📖 Residente de desenvolvimento de Software
 - 📚 Serratec - Parque Tecnologico da Região Serrana
