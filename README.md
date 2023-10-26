@@ -1,7 +1,7 @@
 ### Olá, eu sou a Tatiana Correia 👋👩🏻‍💻
 
 - 📖 Desenvolvedora de Software Full Stack
-- 📚 Estudando e me capacitando mais a cada dia
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tatiana-correia-24b164189/">
